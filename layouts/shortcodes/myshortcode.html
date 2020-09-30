@@ -1,0 +1,87 @@
+
+
+<head>
+<style>
+	.o-preloader__text--js-cycle {
+  animation-name: text-cycle;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes text-cycle {
+  0% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+
+</style>
+</head>
+
+
+
+<body>I'm
+
+<div id="js-preloader" class="" style="display: inline;">
+</div>
+
+<script>
+	function animate_this() {
+
+  var array = ['an engineer', 'a designer', 'a creator', 'an inventor'];
+
+  function shuffle(arr) {
+    for (var i = arr.length - 1; i >= 0; i--) {
+
+      var randomIndex = Math.floor(Math.random() * (i + 1));
+      var itemAtIndex = arr[randomIndex];
+
+      arr[randomIndex] = arr[i];
+      arr[i] = itemAtIndex;
+    }
+  }
+
+  var index = 0;
+  
+  function loop() {
+
+    if (index < 3) {
+      index++;
+    } else {
+      index = 0;
+    }
+
+    arrayValue = array[index];
+    if(index == 0){document.getElementById("js-preloader").style.color = "#118ab2";}
+    if(index == 1){document.getElementById("js-preloader").style.color = "#ef476f";}
+    if(index == 2){document.getElementById("js-preloader").style.color = "#ffd166";}
+    if(index == 3){document.getElementById("js-preloader").style.color = "#06d6a0";}
+	
+
+    document.getElementById("js-preloader").innerHTML = arrayValue;
+    document.getElementById("js-preloader").className = '';
+    document.getElementById("js-preloader").className = 'o-preloader__text o-preloader__text--js-cycle';
+  }
+
+  shuffle(array);
+  loop();
+  setInterval(loop, 6000);
+}
+
+animate_this();
+</script>
+</body>
+
+    
