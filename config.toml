@@ -1,4 +1,4 @@
-baseURL = "https://bobbyrouse.io/"
+baseURL = "http://bobbyrouse.io/"
 languageCode = "en-us"
 title = "Bobby Rouse"
 theme = "introduction"
