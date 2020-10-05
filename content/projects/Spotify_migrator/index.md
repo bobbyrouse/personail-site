@@ -1,5 +1,5 @@
 ---
-title: "Spotify_migrator"
+title: "Spotify Migrator"
 weight: 1
 resources:
     - src: spotify-apple-fusion.jpg
@@ -7,6 +7,6 @@ resources:
           weight: -100
 ---
 
-This is where I'll talk about my python web app
+This is where I'll talk about my Spotify app that migrates user data from apple music to spotify
 
 See more about Foodle [Here!](https://www.therollcontainer.com/)
