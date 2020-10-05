@@ -7,6 +7,6 @@ resources:
           weight: -100
 ---
 
-This is filler for my surf prediction app
+This is another application I'm working on. It's meant to take inputs of beaches around you and then respond by telling you which has the best surf of the day.
 
-See more about Foodle [Here!](https://www.therollcontainer.com/)
+Here's the [Repo!](https://github.com/bobbyrouse/surf-report-judge)

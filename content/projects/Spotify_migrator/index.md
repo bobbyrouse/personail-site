@@ -7,6 +7,6 @@ resources:
           weight: -100
 ---
 
-This is where I'll talk about my Spotify app that migrates user data from apple music to spotify
+This is an application I've been working on to help a friend switch over to Spotify from Apple Music. The application is written in Python and takes all the playlists currently on an Apple Music user's account and duplicates them in Spotify.
 
-See more about Foodle [Here!](https://www.therollcontainer.com/)
+See the GitHub repo for this project [Here!](https://github.com/bobbyrouse/spotify-migrator)
