@@ -3,23 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.bobbyrouse.io/projects/spotify_migrator/</loc>
+    <loc>https://bobbyrouse.io/projects/spotify_migrator/</loc>
   </url>
   
   <url>
-    <loc>https://www.bobbyrouse.io/projects/foodle/</loc>
+    <loc>https://bobbyrouse.io/projects/foodle/</loc>
   </url>
   
   <url>
-    <loc>https://www.bobbyrouse.io/projects/</loc>
+    <loc>https://bobbyrouse.io/projects/surfing-project/</loc>
   </url>
   
   <url>
-    <loc>https://www.bobbyrouse.io/</loc>
+    <loc>https://bobbyrouse.io/projects/</loc>
   </url>
   
   <url>
-    <loc>https://www.bobbyrouse.io/tags/</loc>
+    <loc>https://bobbyrouse.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bobbyrouse.io/tags/</loc>
   </url>
   
 </urlset>

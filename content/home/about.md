@@ -4,14 +4,8 @@ image: "headhsot.jpg"
 weight: 8
 ---
 
-I'm Bobby, and welcome to my crib
+Hello! I'm Bobby, an entrepreneur and a junior at the University of Pittsburgh. I'm studying computer engineering and product development.
 
-### Features
+I have a passion for solving problems through design, whether that be physical products, virtual applications, or even new mindsets.
 
-* Responsive display on any size screen
-* Light and Dark themes right out of the box
-* Multilingual - supports side-by-side content in multiple languages
-* Any number of custom index page sections from Markdown files
-* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
-* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
-* Styled Markdown throughout with support for Hugo's syntax highlighting
+I'm currently looking for product management or product design roles, primarily in the tech field. If you're interested in talking to me check out my work and resume below!

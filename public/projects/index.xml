@@ -2,28 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Bobby Rouse</title>
-    <link>https://www.bobbyrouse.io/projects/</link>
+    <link>https://bobbyrouse.io/projects/</link>
     <description>Recent content in Projects on Bobby Rouse</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.bobbyrouse.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://bobbyrouse.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Spotify_migrator</title>
-      <link>https://www.bobbyrouse.io/projects/spotify_migrator/</link>
+      <title>Spotify Migrator</title>
+      <link>https://bobbyrouse.io/projects/spotify_migrator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.bobbyrouse.io/projects/spotify_migrator/</guid>
-      <description>This is where I&amp;rsquo;ll talk about my python web app
+      <guid>https://bobbyrouse.io/projects/spotify_migrator/</guid>
+      <description>This is where I&amp;rsquo;ll talk about my Spotify app that migrates user data from apple music to spotify
 See more about Foodle Here!</description>
     </item>
     
     <item>
       <title>Foodle</title>
-      <link>https://www.bobbyrouse.io/projects/foodle/</link>
+      <link>https://bobbyrouse.io/projects/foodle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.bobbyrouse.io/projects/foodle/</guid>
+      <guid>https://bobbyrouse.io/projects/foodle/</guid>
       <description>Foodle is the flagship product of the company I cofounded under the same name.
 We created Foodle as the ideal on-the-go food storage solution. This novel design is based on a drybag, which is used for watersports, and creates an air and watertight seal. This is ideal for commuters, professionals, or anyone who carries food with them throughout the day. And since it is a single component, that means no more searching for that matching lid!</description>
+    </item>
+    
+    <item>
+      <title>Surf Predictor</title>
+      <link>https://bobbyrouse.io/projects/surfing-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bobbyrouse.io/projects/surfing-project/</guid>
+      <description>This is filler for my surf prediction app
+See more about Foodle Here!</description>
     </item>
     
   </channel>
