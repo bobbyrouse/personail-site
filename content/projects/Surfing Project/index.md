@@ -8,5 +8,3 @@ resources:
 ---
 
 This is another application I'm working on. It's meant to take inputs of beaches around you and then respond by telling you which has the best surf of the day.
-
-Here's the [Repo!](https://github.com/bobbyrouse/surf-report-judge)
