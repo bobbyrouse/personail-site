@@ -12,8 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bobbyrouse.io/projects/spotify_migrator/</guid>
-      <description>This is where I&amp;rsquo;ll talk about my Spotify app that migrates user data from apple music to spotify
-See more about Foodle Here!</description>
+      <description>This is an application I&amp;rsquo;ve been working on to help a friend switch over to Spotify from Apple Music. The application is written in Python and takes all the playlists currently on an Apple Music user&amp;rsquo;s account and duplicates them in Spotify.
+See the GitHub repo for this project Here!</description>
     </item>
     
     <item>
@@ -32,8 +32,38 @@ We created Foodle as the ideal on-the-go food storage solution. This novel desig
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bobbyrouse.io/projects/surfing-project/</guid>
-      <description>This is filler for my surf prediction app
-See more about Foodle Here!</description>
+      <description>This is another application I&amp;rsquo;m working on. It&amp;rsquo;s meant to take inputs of beaches around you and then respond by telling you which has the best surf of the day.</description>
+    </item>
+    
+    <item>
+      <title>Soosh</title>
+      <link>https://bobbyrouse.io/projects/soosh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bobbyrouse.io/projects/soosh/</guid>
+      <description>This is a recent web concept I designed. I used Adobe Dimension and Adobe XD.
+For a higher quality image, check here.</description>
+    </item>
+    
+    <item>
+      <title>Knuckle Brush</title>
+      <link>https://bobbyrouse.io/projects/glove/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bobbyrouse.io/projects/glove/</guid>
+      <description>Knuckle Brush is a wireless gauntlet that will replace the typical computer mouse.
+Carpal tunnel syndrome has become a bigger threat in recent decades with the mainstream adoption of computers. This gauntlet would reduce the amount of pressure on the wrist and would divert the force to the elbow and shoulder, which are meant to handle larger loads.
+The picture displayed is a rendering of the initial prototype I&amp;rsquo;ve created. If you&amp;rsquo;re curious about the current status of this project, reach out!</description>
+    </item>
+    
+    <item>
+      <title>Tranquility</title>
+      <link>https://bobbyrouse.io/projects/tranquil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bobbyrouse.io/projects/tranquil/</guid>
+      <description>This is a web concept I designed for new way to increase productivity. I used Adobe Dimension and Adobe XD.
+For a higher quality image, look at this.</description>
     </item>
     
   </channel>
